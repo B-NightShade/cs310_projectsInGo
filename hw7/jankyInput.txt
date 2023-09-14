@@ -1,0 +1,5 @@
+green_1 -> red_2
+green_1 -> blue_7
+red_2 -> blue_7
+green_1 -> blue_4
+blue  ->

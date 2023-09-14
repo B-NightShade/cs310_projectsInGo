@@ -1,0 +1,8 @@
+<html>
+    <form action="/decrypt" method="POST">
+        <h1>Let's DECRYPT!</h1>
+        <input type="text" name="Text" value="{{.Cipher}}"><br>
+        <input type="range" min ="0" max="25" name="shift" value="{{.Shift}}"><br>
+        <input type="submit" name="DECRYPT!">
+    </form>
+</html>

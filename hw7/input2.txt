@@ -1,0 +1,11 @@
+green_1 -> red_2
+green_1 -> blue_7
+red_2 -> blue_7
+green_1 -> blue_4
+blue_7 -> green_1
+blue_4 -> yellow_6
+red_2 -> indigo_5
+yellow_6 -> violet_8
+indigo_5 -> violet_8
+violet_8 -> orange_6
+red_2 -> blue_4
